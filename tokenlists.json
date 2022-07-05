@@ -26,7 +26,7 @@
       "address": "0xa8667dB0e97473d520327f79467881f2cf808851",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://github.com/TP-Lab/tokens/blob/master/bsc/0xa8667dB0e97473d520327f79467881f2cf808851/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/TP-Lab/tokens/master/bsc/0xa8667dB0e97473d520327f79467881f2cf808851/logo.png"
     },
     {
       "name": "PancakeSwap Token",
