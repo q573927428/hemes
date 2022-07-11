@@ -45,12 +45,12 @@
       "logoURI": "https://mdex.co/token-icons/heco/0xa71edc38d189767582c38a3145b5873052c3e47a.png"
     },
     {
-      "name": "Heco-Peg HUSD Token",
-      "symbol": "HUSD",
-      "address": "0x0298c2b32eae4da002a15f36fdf7615bea3da047",
+      "name": "Heco-Peg USDC Token",
+      "symbol": "USDC",
+      "address": "0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b",
       "chainId": 128,
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4779.png"
+      "decimals": 6,
+      "logoURI": "https://mdex.co/token-icons/heco/0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b.png"
     },
     {
       "name": "Heco-Peg ETH Token",
@@ -67,6 +67,14 @@
       "chainId": 128,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+    },
+    {
+      "name": "Heco-Peg ETH Token",
+      "symbol": "ETH",
+      "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
     },
     {
       "name": "MDX",
