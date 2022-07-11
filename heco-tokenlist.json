@@ -15,10 +15,10 @@
     {
       "name": "WHT Token",
       "symbol": "WHT",
-      "address": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+      "address": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
       "chainId": 128,
       "decimals": 18,
-      "logoURI": "https://heme.info/heco/0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f.png"
+      "logoURI": "https://heme.info/heco/0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F.png"
     },
     {
       "name": "WGME",
@@ -31,42 +31,42 @@
     {
       "name": "HELP ME TOKEN",
       "symbol": "HEME",
-      "address": "0xe2a79251767b00b4f1631dc545348602224f0834",
+      "address": "0xE2A79251767B00B4f1631dC545348602224F0834",
       "chainId": 128,
       "decimals": 9,
-      "logoURI": "https://heme.info/heco/0xe2a79251767b00b4f1631dc545348602224f0834.png"
+      "logoURI": "https://heme.info/heco/0xE2A79251767B00B4f1631dC545348602224F0834.png"
     },
     {
       "name": "Heco-Peg USDTHECO Token",
       "symbol": "USDT",
-      "address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+      "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
       "chainId": 128,
       "decimals": 18,
-      "logoURI": "https://heme.info/heco/0xa71edc38d189767582c38a3145b5873052c3e47a.png"
+      "logoURI": "https://heme.info/heco/0xa71EdC38d189767582C38A3145b5873052c3e47a.png"
     },
     {
       "name": "Heco-Peg USDC Token",
       "symbol": "USDC",
-      "address": "0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b",
+      "address": "0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B",
       "chainId": 128,
       "decimals": 6,
-      "logoURI": "https://heme.info/heco/0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b.png"
+      "logoURI": "https://heme.info/heco/0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B.png"
     },
     {
       "name": "Heco-Peg ETH Token",
       "symbol": "ETH",
-      "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+      "address": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD",
       "chainId": 128,
       "decimals": 18,
-      "logoURI": "https://heme.info/heco/0x64ff637fb478863b7468bc97d30a5bf3a428a1fd.png"
+      "logoURI": "https://heme.info/heco/0x64FF637fB478863B7468bc97D30a5bF3A428a1fD.png"
     },
     {
       "name": "Heco-Peg HBTC Token",
       "symbol": "HBTC",
-      "address": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+      "address": "0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa",
       "chainId": 128,
       "decimals": 18,
-      "logoURI": "https://heme.info/heco/0x66a79d23e58475d2738179ca52cd0b41d73f0bea.png"
+      "logoURI": "https://heme.info/heco/0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa.png"
     },
     {
       "name": "MDX",
