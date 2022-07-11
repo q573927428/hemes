@@ -69,14 +69,6 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
     },
     {
-      "name": "Heco-Peg ETH Token",
-      "symbol": "ETH",
-      "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
-      "chainId": 128,
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
-    },
-    {
       "name": "MDX",
       "symbol": "MDX",
       "address": "0x25D2e80cB6B86881Fd7e07dd263Fb79f4AbE033c",
