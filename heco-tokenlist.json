@@ -1,0 +1,80 @@
+{
+  "name": "WgmeSwap Default",
+  "timestamp": "2022-07-01T08:37:04.410Z",
+  "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 5
+  },
+  "logoURI": "https://mdex.co/token-icons/heco/0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f.png",
+  "keywords": [
+    "LefafaSwap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "WHT Token",
+      "symbol": "WHT",
+      "address": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "https://mdex.co/token-icons/heco/0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f.png"
+    },
+    {
+      "name": "WGME",
+      "symbol": "WGME",
+      "address": "0xCF4bc894197AA56435D286B97beF0C453a42a3A5",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/TP-Lab/tokens/master/heco/0xCF4bc894197AA56435D286B97beF0C453a42a3A5/logo.png"
+    },
+    {
+      "name": "HELP ME TOKEN",
+      "symbol": "HEME",
+      "address": "0xe2a79251767b00b4f1631dc545348602224f0834",
+      "chainId": 128,
+      "decimals": 9,
+      "logoURI": "https://tp-statics.cdn.bcebos.com/website/tokenpocket-1620977138799.jpg"
+    },
+    {
+      "name": "Heco-Peg USDTHECO Token",
+      "symbol": "USDT",
+      "address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "https://mdex.co/token-icons/heco/0xa71edc38d189767582c38a3145b5873052c3e47a.png"
+    },
+    {
+      "name": "Heco-Peg USDC Token",
+      "symbol": "USDC",
+      "address": "0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b",
+      "chainId": 128,
+      "decimals": 6,
+      "logoURI": "https://mdex.co/token-icons/heco/0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b.png"
+    },
+    {
+      "name": "Heco-Peg ETH Token",
+      "symbol": "ETH",
+      "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    },
+    {
+      "name": "Heco-Peg HBTC Token",
+      "symbol": "HBTC",
+      "address": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+    },
+    {
+      "name": "MDX",
+      "symbol": "MDX",
+      "address": "0x25D2e80cB6B86881Fd7e07dd263Fb79f4AbE033c",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "https://mdex.co/token-icons/heco/0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c.png"
+    }
+  ]
+}
