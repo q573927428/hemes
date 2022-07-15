@@ -6,6 +6,7 @@
     "minor": 0,
     "patch": 1
   },
+  "tags": {},
   "logoURI": "https://heme.info/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
   "keywords": [
     "GHTKINGswap",
@@ -16,7 +17,7 @@
       "name": "WBNB Token",
       "symbol": "WBNB",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "chainId": 128,
+      "chainId": 56,
       "decimals": 18,
       "logoURI": "https://heme.info/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
     },
@@ -24,7 +25,7 @@
       "name": "GHTKING",
       "symbol": "GHTKING",
       "address": "0xa8667dB0e97473d520327f79467881f2cf808851",
-      "chainId": 128,
+      "chainId": 56,
       "decimals": 18,
       "logoURI": "https://heme.info/bsc/0xa8667dB0e97473d520327f79467881f2cf808851.png"
     },
@@ -32,7 +33,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "address": "0x55d398326f99059fF775485246999027B3197955",
-      "chainId": 128,
+      "chainId": 56,
       "decimals": 18,
       "logoURI": "https://heme.info/bsc/0x55d398326f99059fF775485246999027B3197955.png"
     },
@@ -40,7 +41,7 @@
       "name": "USDC",
       "symbol": "USDC",
       "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-      "chainId": 128,
+      "chainId": 56,
       "decimals": 18,
       "logoURI": "https://heme.info/bsc/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
     },
@@ -48,7 +49,7 @@
       "name": "ETH",
       "symbol": "ETH",
       "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-      "chainId": 128,
+      "chainId": 56,
       "decimals": 18,
       "logoURI": "https://heme.info/bsc/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
     },
@@ -56,7 +57,7 @@
       "name": "CAKE",
       "symbol": "CAKE",
       "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-      "chainId": 128,
+      "chainId": 56,
       "decimals": 18,
       "logoURI": "https://heme.info/bsc/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
     }
